@@ -1,1 +1,1 @@
-print('João Victor da Cruz Santos')
+print('João')
